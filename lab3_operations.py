@@ -1,0 +1,9 @@
+a = 15
+b = 4
+print(f"{a} + {b} = {a + b}")
+print(f"{a} - {b} = {a - b}")
+print(f"{a} * {b} = {a * b}")
+print(f"{a} / {b} = {a / b}")               # division classique → float
+print(f"{a} // {b} = {a // b}")             # quotient entier  
+print(f"{a} % {b} = {a % b}")               # reste
+print(f"{a} ** {b} = {a ** b}")             # puissance (a^b)
